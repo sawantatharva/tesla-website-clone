@@ -2,7 +2,9 @@
 
 Clone Link (Deployed): https://tesla-website-clone-33956.web.app/
 
-This is a clone of the Tesla website built using Tailwind CSS, React JS, and Firebase. It aims to replicate the design and functionality of the official Tesla website, showcasing electric cars and providing information about Tesla's products and services.
+This is a clone of the Tesla website built using Tailwind CSS, React JS, and Firebase. It aims to replicate the design and functionality of the official Tesla website, showcasing electric cars and providing information about Tesla's products and services. 
+
+***Note:*** *This clone is not yet fully responsive. There are minor bugs. If you can fix them or want to add more features, please submit an issue or create a pull request. Thank you.*
 
 ## Technologies Used
 
