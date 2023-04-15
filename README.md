@@ -24,4 +24,4 @@ To run the Tesla Website Clone locally on your machine, follow these steps:
 Contributions to the Tesla Website Clone are welcome! If you find any bugs, have suggestions for improvements, or want to add new features, please submit an issue or create a pull request. 
 
 ## Thanks for Inspiration
-Thank you to Matthew Hefferon for his informative videos on building this website clone! His tutorials were incredibly helpful and provided me with the guidance I needed to successfully recreate the website. I appreciate his clear explanations and step-by-step instructions. Thanks once again! [Click here to check his tutorial](https://youtube.com/playlist?list=PL5ZlXxM-0LTEVCWlYYqIjPoFuq1a7bbVA)
+Thank you to Matthew Hefferon for his informative videos on building this website clone! His tutorials were incredibly helpful and provided me with the guidance I needed to successfully recreate the website. I appreciate his clear explanations and step-by-step instructions. Thanks once again! [Click here to check his tutorial!](https://youtube.com/playlist?list=PL5ZlXxM-0LTEVCWlYYqIjPoFuq1a7bbVA)
